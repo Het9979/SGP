@@ -7,3 +7,4 @@ calulates the amount of water present in the tank by sending ultrasonic waves an
 Once the arduino gets the water level in tank then if the water level is lower than the preset value than with the help of L293D the DC motor turns on and 
 when the water level in tank reaches a point less than the maximum capacity the arduino turns off the DC Motor.
 **Here we have used DC Motor for demonstration purpose but in real we use the Water Pump used to fill the water tank**
+https://www.tinkercad.com/things/lQHSaOavBhI-smart-water-tank-management-system/editel
